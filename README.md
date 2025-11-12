@@ -4,7 +4,7 @@ Skissen från kodexemplet med grid/flex [hittar ni här](https://www.figma.com/d
 
 ## Huvudövning
 
-* [Planned Planthood](https://github.com/lektionskod/exercise-planned-planthood)
+* [Planned Planthood](./exercise-planned-planthood)
 
 ## Repetition
 
