@@ -1,4 +1,4 @@
-# lecture-12-nov
+# Lektion : 12 november
 
 Skissen från kodexemplet med grid/flex [hittar ni här](https://www.figma.com/design/oHzAfe4fp1kqtnQiZwTrbY/Space-hack?node-id=184-124&t=zd9BXpvKDmeuX1Qb-0)
 
